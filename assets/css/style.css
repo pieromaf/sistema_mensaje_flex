@@ -1,0 +1,51 @@
+#primpic{
+    border-radius: 65%;
+    width: 65px;
+    height: 65px;
+}
+
+#nuevochat {
+    background-color: #A491D2;
+    border-radius: 0%;
+}
+
+#restpic {
+    border-radius: 65%;
+    width: 65px;
+    height: 65px;
+}
+
+#otroscontactos {
+    font-size:medium;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+
+}
+
+h5 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 150;
+}
+
+#fotofondo {
+    width: 300px;
+    height: 300px;
+    margin-bottom: 20px;
+    margin-top: 5px;
+
+}
+
+#fondoderecho{
+    padding-bottom: 200px;
+    text-align: center;
+    align-items: center;
+
+}
+
+#textogrande{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+
+
